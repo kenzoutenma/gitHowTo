@@ -25,3 +25,8 @@ Commit B - c68a2267a7a6c38bc9bcd0e9e1a2a7585aee64f9
 # 13 Скидання змін після стейджу
 
 ![alt text](assets/image5.png)
+
+# 14-16 Revert. reset та видалення коміту
+
+![alt text](assets/image6.png)
+![alt text](assets/image7.png)
