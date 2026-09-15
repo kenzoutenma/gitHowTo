@@ -21,3 +21,7 @@ Commit B - c68a2267a7a6c38bc9bcd0e9e1a2a7585aee64f9
 # 12 Скидання змін до стейджу
 
 ![alt text](assets/image4.png)
+
+# 13 Скидання змін після стейджу
+
+![alt text](assets/image5.png)
