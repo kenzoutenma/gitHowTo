@@ -42,3 +42,12 @@ Commit B - c68a2267a7a6c38bc9bcd0e9e1a2a7585aee64f9
 # 20 Переміщення файлів
 
 ![alt text](assets/image10.png)
+
+# 22-23 Перегляд графу та мерж
+
+![alt text](assets/image11.png)
+![alt text](assets/image12.png)
+
+# 24 Створення конфлікту
+
+![alt text](assets/image13.png)
