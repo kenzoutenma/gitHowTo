@@ -48,6 +48,7 @@ Commit B - c68a2267a7a6c38bc9bcd0e9e1a2a7585aee64f9
 ![alt text](assets/image11.png)
 ![alt text](assets/image12.png)
 
-# 24 Створення конфлікту
+# 24-25 Створення та вирішення конфлікту
 
 ![alt text](assets/image13.png)
+![alt text](assets/image14.png)
