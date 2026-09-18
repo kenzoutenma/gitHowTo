@@ -39,3 +39,6 @@ Commit B - c68a2267a7a6c38bc9bcd0e9e1a2a7585aee64f9
 
 ![alt text](assets/image9.png)
 
+# 20 Переміщення файлів
+
+![alt text](assets/image10.png)
